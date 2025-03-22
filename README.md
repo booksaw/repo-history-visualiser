@@ -58,3 +58,4 @@ Runs all front-end tests with code coverage
 This must be executed in the root folder. 
 
 Builds the entire application into a single `.jar` file
+ 
