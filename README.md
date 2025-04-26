@@ -1,6 +1,6 @@
 # Repo-History-Visualiser
 
-A project to produce customisable visualsiations of Git repository histories. This project was created as part of a University of York, Computer Science bachelor's degree.
+A project to produce customisable visualsiations of Git repository histories. This project was created as part of a Computer Science degree.
 
 ## Running the program
 
